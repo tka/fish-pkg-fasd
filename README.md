@@ -9,8 +9,8 @@ Fasd Plugin for [Fisherman][fisherman-link]/[Oh My Fish][omf-link].
 ## Install
 
 ```fish
-# fiserman
-$ fiser install icyleaf/fish-pkg-fasd
+# fisherman
+$ fisher install icyleaf/fish-pkg-fasd
 # oh-my-fish
 $ omf install https://github.com/icyleaf/fish-pkg-fasd
 ```
